@@ -1,0 +1,2 @@
+# NetCoreMicroservices
+Project demonstrating microservices
